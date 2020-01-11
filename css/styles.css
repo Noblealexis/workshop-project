@@ -1,0 +1,37 @@
+h1 {
+  color: #9900cc;
+  background-color: #ccffcc;
+}
+h3{
+  color:#cca300;
+  font-family:serif;
+}
+
+list-item{
+  font-family: monospace;
+}
+
+#css-item{
+  color: #006666;
+}
+
+#goal-list{
+  border-style: solid;
+  border-color: #cccc00;
+  width: 30%;
+}
+
+#picture {
+  width: 60%;
+  float: right;
+  border: solid;
+  border-color: grey beige white grey;
+}
+
+#goal-list {
+  background-color: #ffffb3
+}
+
+#goal-button {
+  background-color: #ffcccc
+}
